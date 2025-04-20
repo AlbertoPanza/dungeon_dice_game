@@ -148,7 +148,7 @@ try:
                 print(f"\nYou rolled a {my_roll} and that's really unfortunate! You fall into a pit and unfortunately there's no way out!")
                 print("\nGAME OVER")
                 input("Press enter to exit...")
-                sys,exit()
+                sys.exit()
     print(f"\nYou have explored all {num_rooms} rooms of the dungeon!")
 
     print("\nCongratulations! You have completed the dungeon!")
